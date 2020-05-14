@@ -9,8 +9,8 @@
 
 ## Installation
 
-> Clone this repo by running
-> `npm -g install truffle ganache-cli solc web3`
+- Clone this repo
+- `npm -g install truffle ganache-cli solc web3`
 
 ## To run tests
 
