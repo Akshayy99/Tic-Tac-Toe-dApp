@@ -9,7 +9,7 @@
 
 ## Installation
 
-> Clone this repo by running `https://github.com/abhigyanghosh30/MyTicTacToe.git`
+> Clone this repo by running
 > `npm -g install truffle ganache-cli solc web3`
 
 ## To run tests
