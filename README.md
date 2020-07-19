@@ -2,10 +2,10 @@
 
 ## Prerequisites
 
-> truffle
-> ganache / gananche-cli 
-> solc
-> web3
+- truffle
+- ganache / gananche-cli 
+- solc
+- web3
 
 ## Installation
 
