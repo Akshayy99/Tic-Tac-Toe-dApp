@@ -20,7 +20,7 @@ npm -g install truffle ganache-cli solc web3
 - Compile using 
 ```bash 
 truffle compile
-```. 
+``` 
 It should download the required solc version automatically 
 - Start the ganache network 
 ```bash
